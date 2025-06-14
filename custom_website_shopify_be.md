@@ -13,7 +13,7 @@ You have a custom Figma design ready and want to build an ecommerce website for 
 
 ## Your Three Options
 
-### Option 1: Custom Shopify Theme
+### Option 1: Custom Shopify Theme (Recommended)
 **Convert your Figma design into a Shopify theme**
 
 ```
@@ -43,7 +43,7 @@ Figma Design → Custom Shopify Theme → Shopify Platform
 
 ---
 
-### Option 2: Headless Shopify (Recommended)
+### Option 2: Headless Shopify
 **Build your exact design with custom code, use Shopify for backend**
 
 ```
