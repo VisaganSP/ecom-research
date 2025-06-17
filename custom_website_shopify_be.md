@@ -37,7 +37,7 @@ Figma Design → Custom Shopify Theme → Shopify Platform
 - ❌ Certain animations/interactions may not be possible
 
 #### Cost & Timeline
-- **Development Cost**: $8,000 - $15,000
+- **Development Cost**: $1,000 - $3,000
 - **Monthly Cost**: $128 - $178 (Shopify + apps)
 - **Timeline**: 4-6 weeks
 
@@ -68,7 +68,7 @@ Figma Design → Custom Next.js Website → Shopify Backend (invisible)
 - ❌ Two systems to understand (frontend + Shopify)
 
 #### Cost & Timeline
-- **Development Cost**: \$13,500 - $18,500
+- **Development Cost**: $5,500 - $8,500
 - **Monthly Cost**: $100 (Shopify + hosting)
 - **Timeline**: 6-8 weeks
 
@@ -100,7 +100,7 @@ Figma Design → Custom Website → Custom Backend → Database
 - ❌ Security and PCI compliance complexity
 
 #### Cost & Timeline
-- **Development Cost**: $25,000 - $40,000
+- **Development Cost**: $8,000 - $10,000
 - **Monthly Cost**: $500+ (hosting, services, maintenance)
 - **Timeline**: 3-4 months
 
@@ -190,42 +190,60 @@ Shopify Admin → Manage Products → View All Orders → Track Performance
 
 ---
 
-## Budget Breakdown for Headless Shopify (Option 2)
+## Budget Breakdown for Custom Shopify Theme (Option 1)
 
 ### One-Time Development Costs
 
 | Task | Description | Cost |
 |------|-------------|------|
-| **Frontend Development** | | |
-| Figma to Code Conversion | Convert all pages to React/Next.js | $3,000-6,000 |
-| Responsive Design | Mobile and tablet optimization | $1,000-2,000 |
-| Animations & Interactions | Custom effects as per design | $500-800 |
+| **Theme Development** | | |
+| Figma to Shopify Conversion | Convert design to Liquid theme | $450-900 |
+| Custom Sections & Blocks | Create flexible content modules | $150-400 |
+| Responsive Optimization | Mobile and tablet adaptations | $100-350 |
 | | | |
-| **Ecommerce Integration** | | |
-| Product Display | Dynamic product pages | $500-1,000 |
-| Shopping Cart | Cart functionality | $500-1,000 |
-| Shopify Integration | API connections | $1,500-2,000 |
+| **Ecommerce Setup** | | |
+| Product Setup | Configuration and organization | $50-150 |
+| Collection Structure | Category setup and navigation | $40-120 |
+| Payment Gateway | Setup and testing | $30-100 |
+| Shipping Rules | Configure shipping options | $30-100 |
 | | | |
-| **Vendor System** | | |
-| Vendor Portal | Dashboard for vendors | $2,000-3,000 |
-| Order Management | Vendor order handling | $1,000-1,500 |
-| Notifications | Email/SMS setup | $500-1,000 |
+| **Vendor Management** | | |
+| Vendor App Selection | Research and implementation | $50-150 |
+| Vendor Portal Setup | Configure vendor accounts | $40-150 |
+| Commission Rules | Setup payment structure | $40-100 |
 | | | |
-| **Setup & Deployment** | | |
-| Hosting Setup | Vercel/Netlify configuration | $300-500 |
-| Testing | Complete system testing | $700-1,000 |
-| Training | Admin and vendor training | $500 |
+| **Store Optimization** | | |
+| SEO Setup | Meta descriptions, schema markup | $40-120 |
+| Performance Optimization | Image optimization, caching | $40-120 |
+| Analytics Integration | Google Analytics, FB Pixel | $30-80 |
 | | | |
-| **Total** | | **$9,500-15,500** |
+| **Training & Launch** | | |
+| Admin Training | Store management training | $30-80 |
+| Vendor Training | Vendor portal training | $30-80 |
+| Launch Support | Go-live assistance | $50-100 |
+| | | |
+| **Total** | | **$1,000-3,000** |
 
 ### Monthly Operational Costs
 
 | Service | Cost |
 |---------|------|
-| Shopify Basic | $79 |
-| Website Hosting (Vercel) | $20 |
-| Domain Name | $1.50 |
-| **Total Monthly** | **$100.50** |
+| Shopify Basic Plan | $29 |
+| Vendor Management App | $29-49 |
+| Email Marketing App | $10-20 |
+| Premium Theme Updates | $20 (amortized) |
+| SEO/Analytics Apps | $20-30 |
+| Advanced Shipping Rules | $20-30 |
+| **Total Monthly** | **$128-178** |
+
+### Additional Considerations
+
+- **App Bundle Discounts**: Shopify often offers app bundles that can reduce monthly costs by 10-15%
+- **Annual Billing**: Save approximately 10% by paying annually for Shopify plans
+- **Expedited Timeline**: Rush delivery available for 20% additional fee
+- **Content Population**: Product data entry not included (client to provide product information)
+- **Future Support**: Post-launch support available at $40-60/hour as needed
+- **Warranty Period**: 30-day bug fix warranty included in development cost
 
 ---
 
@@ -302,12 +320,10 @@ Regardless of which option you choose, we commit to:
 
 ## Contact Information
 
-**Project Lead**: [Your Name]  
-**Email**: [Your Email]  
-**Phone**: [Your Phone]  
-**Company**: [Your Company]
-
-**Proposal Valid Until**: [Date - 30 days from now]
+**Project Lead**: Visagan S
+**Email**: visagansvvg@gmail.com
+**Phone**: +91 7339124748
+**Company**: Visainnovations
 
 ---
 
@@ -315,6 +331,6 @@ Regardless of which option you choose, we commit to:
 
 Let us know which option works best for you, and we can begin bringing your Figma design to life as a fully functional ecommerce platform.
 
-**Option 1**: Shopify Theme - Good  
-**Option 2**: Headless Shopify - Better ⭐ Recommended  
+**Option 1**: Shopify Theme - Better ⭐ Recommended  
+**Option 2**: Headless Shopify - Good  
 **Option 3**: Full Custom - Best (but overkill for 15-20 products)
