@@ -112,7 +112,7 @@ Figma Design → Custom Website → Custom Backend → Database
 |---------|-------------------------|---------------------|------------------------|
 | **Design Fidelity** | 85% match to Figma | 100% match | 100% match |
 | **Development Time** | 4-6 weeks | 6-8 weeks | 3-4 months |
-| **Initial Cost** | $8,000-15,000 | $13,500-18,500 | $25,000-40,000 |
+| **Initial Cost** | $1,000 - $3,000 | $5,500 - $8,500 | $8,000 - $10,000 |
 | **Monthly Cost** | $128-178 | $100 | $500+ |
 | **Payment Processing** | Built-in | Built-in | Custom integration |
 | **Inventory Management** | Built-in | Built-in | Must build |
